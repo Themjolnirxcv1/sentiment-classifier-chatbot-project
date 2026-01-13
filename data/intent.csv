@@ -1,0 +1,31 @@
+"text;";intent
+"halo;";greeting
+"hai;";greeting
+"pagi bot;";greeting
+"malam;";greeting
+"apa kabar;";greeting
+"hey bot;";greeting
+;
+"lu bisa apa;";question
+"lu siapa;";question
+"ini chatbot ya;";question
+"cara kerja lu gimana;";question
+"bisa bantu apa;";question
+;
+"gua capek banget;";curhat
+"burnout parah;";curhat
+"gua stress;";curhat
+"gua ngerasa kosong;";curhat
+"gua males hidup;";curhat
+"gua bingung harus ngapain;";curhat
+"hidup gua ribet;";curhat
+"gua pengen nyerah;";curhat
+;
+"kasih saran dong;";request_advice
+"menurut lu gimana;";request_advice
+"gua harus ngapain;";request_advice
+"minta saran;";request_advice
+;
+"makasih ya;";thanks
+"terima kasih;";thanks
+"thanks bot;";thanks
