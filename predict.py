@@ -5,7 +5,7 @@ import re
 
 
 
-bundle = joblib.load("sentiment_bundle.pkl")
+bundle = joblib.load("models/sentiment_bundle.pkl")
 model = bundle["model"]
 accuracy = bundle["accuracy"]
 vectorizer = bundle["vectorizer"]

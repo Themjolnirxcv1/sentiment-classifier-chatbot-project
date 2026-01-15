@@ -6,7 +6,7 @@ import re
 intent_model = joblib.load("intent_model.pkl")
 intent_vectorizer = joblib.load("intent_vectorizer.pkl")
 
-sentiment_bundle = joblib.load("sentiment_bundle.pkl")
+sentiment_bundle = joblib.load("models/sentiment_bundle.pkl")
 sentiment_model = sentiment_bundle["model"]
 sentiment_vectorizer = sentiment_bundle["vectorizer"]
 
